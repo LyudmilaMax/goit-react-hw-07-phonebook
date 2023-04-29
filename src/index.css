@@ -1,4 +1,7 @@
 @import-normalize; /* bring in normalize.css styles */
+h1, h2 {
+text-align: center;
+}
 
 body {
   margin: 0;

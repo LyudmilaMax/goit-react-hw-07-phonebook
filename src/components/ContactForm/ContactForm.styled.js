@@ -22,7 +22,7 @@ export const FormField = styled.label`
 `;
 
 export const Field = styled(FormikField)`
-  width: 300px;
+  width: 320px;
   height: 24px;
   margin-top: 4px;
   padding: 4px 8px;
